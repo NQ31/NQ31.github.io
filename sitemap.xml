@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nq31.github.io/about/index.html</loc>
+    
+    <lastmod>2019-05-12T02:07:42.705Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nq31.github.io/tags/index.html</loc>
     
     <lastmod>2019-05-12T02:05:09.768Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://nq31.github.io/top/index.html</loc>
     
     <lastmod>2019-01-23T15:11:55.756Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nq31.github.io/about/index.html</loc>
-    
-    <lastmod>2019-01-23T15:11:06.836Z</lastmod>
     
   </url>
   
